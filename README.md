@@ -1,0 +1,2 @@
+# Statsify
+Spotify API
