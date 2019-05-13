@@ -1,2 +1,2 @@
-# Statsify
+# Statsipy
 Spotify API
